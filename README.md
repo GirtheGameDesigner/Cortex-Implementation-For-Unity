@@ -35,6 +35,7 @@ To start working on the project first clone it on the computer, then open it on 
 ## Author
 
 * **Alejandro Diaz** - *Programmer* - [Aldiazj](https://github.com/aldiazj)
+* **Joshua Resnick** - *Programmer*
 
 ## Licennse
 
