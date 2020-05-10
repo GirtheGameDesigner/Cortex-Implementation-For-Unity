@@ -35,9 +35,9 @@ To start working on the project first clone it on the computer, then open it on 
 ## Author
 
 * **Alejandro Diaz** - *Programmer* - [Aldiazj](https://github.com/aldiazj)
-* **Joshua Resnick** - *Programmer*
+* **Joshua Resnick** - *Programmer* - [Gir] (https://github.com/GirtheGameDesigner)
 
-## Licennse
+## License
 
 This project is licensed under the terms of the MIT license.
 
